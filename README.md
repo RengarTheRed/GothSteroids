@@ -1,3 +1,6 @@
+## Disclaimer
+This project is entirely AI Generated
+
 # Asteroids – Goth Girls Edition
 
 A fun Asteroids clone built with Python and Pygame where you shoot hearts at goth girl asteroids!
